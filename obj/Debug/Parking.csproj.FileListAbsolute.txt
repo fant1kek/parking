@@ -1,0 +1,16 @@
+D:\ооп\1111 курсач\Parking\Parking\bin\Debug\Parking.exe.config
+D:\ооп\1111 курсач\Parking\Parking\bin\Debug\Parking.exe
+D:\ооп\1111 курсач\Parking\Parking\bin\Debug\Parking.pdb
+D:\ооп\1111 курсач\Parking\Parking\obj\Debug\Parking.csproj.AssemblyReference.cache
+D:\ооп\1111 курсач\Parking\Parking\obj\Debug\Parking.csproj.SuggestedBindingRedirects.cache
+D:\ооп\1111 курсач\Parking\Parking\obj\Debug\Parking.Form1.resources
+D:\ооп\1111 курсач\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+D:\ооп\1111 курсач\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.cache
+D:\ооп\1111 курсач\Parking\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+D:\ооп\1111 курсач\Parking\Parking\obj\Debug\Parking.exe
+D:\ооп\1111 курсач\Parking\Parking\obj\Debug\Parking.pdb
+D:\ооп\1111 курсач\Parking\Parking\obj\Debug\Parking.Form2.resources
+D:\ооп\1111 курсач\Parking\Parking\obj\Debug\Parking.Form3.resources
+D:\ооп\1111 курсач\Parking\Parking\obj\Debug\Parking.Form4.resources
+D:\ооп\1111 курсач\Parking\Parking\obj\Debug\Parking.Form5.resources
+D:\ооп\1111 курсач\Parking\Parking\obj\Debug\Parking.Form6.resources
